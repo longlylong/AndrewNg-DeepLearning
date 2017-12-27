@@ -1,5 +1,11 @@
-# Andrew_Ng_DL_Assignment
+﻿# Andrew_Ng_DL_Assignment
 
 网易云课堂的深度学习工程师微专业
 
-更新到第二课第三周
+
+更新到第四课第1周
+
+Lesson1 神经网络和深度学习
+Lesson2 改善深层神经网络：超参数调试、正则化以及优化
+Lesson3 结构化机器学习项目
+Lesson4 卷积神经网络
