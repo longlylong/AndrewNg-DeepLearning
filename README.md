@@ -6,9 +6,12 @@
 更新到第四课第2周
 
 Lesson1 神经网络和深度学习
+  
   week1 没编程作业
-  week2 
+  
+  week2 
     1.Python Basics with Numpy
+    
     2.Logistic Regression with a Neural Network mindset
   week3
     1.Planar data classification with one hidden layer
