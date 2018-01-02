@@ -8,7 +8,6 @@
 Lesson1 神经网络和深度学习
   
   week1 没编程作业
-  
   week2 
     1.Python Basics with Numpy
     
