@@ -5,8 +5,8 @@
 
 更新到第四课第2周
 
-Lesson1 神经网络和深度学习
-  <br>　week1 没编程作业
+`Lesson1 神经网络和深度学习`
+  <br>　week1 没编程作业
   <br>　week2 
   <br>　　1.Python Basics with Numpy
   <br>　　2.Logistic Regression with a Neural Network mindset
@@ -16,7 +16,7 @@ Lesson1 神经网络和深度学习
   <br>　　1.Building your Deep Neural Network: Step by Step
   <br>　　2.Deep Neural Network for Image Classification: Application
 
-Lesson2 改善深层神经网络：超参数调试、正则化以及优化
+`Lesson2 改善深层神经网络：超参数调试、正则化以及优化`
   <br>　week1
     <br>　　1.Initialization
     <br>　　2.Regularization
@@ -26,10 +26,10 @@ Lesson2 改善深层神经网络：超参数调试、正则化以及优化
   <br>　week3
     <br>　　1.TensorFlow Tutorial
 
-Lesson3 结构化机器学习项目
+`Lesson3 结构化机器学习项目`
   <br>　没编程作业
 
-Lesson4 卷积神经网络
+`Lesson4 卷积神经网络`
   <br>　week1
     <br>　　1.Convolutional Neural Networks: Step by Step
     <br>　　2.Convolutional Neural Networks: Application
