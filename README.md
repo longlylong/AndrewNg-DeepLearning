@@ -3,7 +3,7 @@
 网易云课堂的深度学习工程师微专业
 
 
-更新到第四课第3周
+更新到第四课第4周
 
 `Lesson1 神经网络和深度学习`
   <br>　week1 没编程作业
@@ -39,3 +39,5 @@
   <br>　week3
 	<br>　　1.Autonomous driving application - Car detection
   <br>　week4
+ 	<br>　　1.Face Recognition for the Happy House
+	<br>　　2.Art Generation with Neural Style Transfer
