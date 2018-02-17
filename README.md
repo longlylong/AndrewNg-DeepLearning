@@ -41,3 +41,15 @@
   <br>　week4
  	<br>　　1.Face Recognition for the Happy House
 	<br>　　2.Art Generation with Neural Style Transfer
+	
+`Lesson5 序列模型`
+  <br>　week1
+    <br>　　1.Building-Rnn-Step-by-Step
+    <br>　　2.Dinosaur-Island-Character-Level-Language-Model
+	<br>　　3.Jazz-Improvisation-with-Lstm
+  <br>　week2
+    <br>　　1.Emojify
+    <br>　　2.Word-Vector-Representation
+  <br>　week3
+	<br>　　1.Machine-Translation
+	<br>　　2.Trigger-Word-Detection
